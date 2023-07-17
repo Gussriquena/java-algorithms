@@ -21,7 +21,7 @@ public class Alg_04_LinkedList {
         // 2 - Insertion and Deletion of Nodes is easy. O(1)
         // 3 - No/Low memory waste
 
-        // Disavantages?
+        // Disadvantages?
         // 1 - Greater memory usage (additional pointer)
         // 2 - No random access of elements (no index[i])
         // 3 - Accessing/Searching elements is more time consuming. O(n)
